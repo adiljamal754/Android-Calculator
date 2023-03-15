@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="raiz_x">raiz x</string>
+    <string name="f_2">f^2</string>
+    <string name="x_y">X^y</string>
+    <string name="ac">AC</string>
+    <string name="p7s">+/-</string>
+    <string name="perc">%</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="div">/</string>
+    <string name="x">x</string>
+    <string name="sub">-</string>
+    <string name="plus">+</string>
+    <string name="_0">0</string>
+    <string name="ln">Log10</string>
+    <string name="point">.</string>
+    <string name="equal">=</string>
+    <string name="dontknow">log</string>
+</resources>
